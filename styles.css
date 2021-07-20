@@ -1,0 +1,42 @@
+* {
+    margin: 0px;
+    margin: 10px 10px 10px 10px;
+}
+
+h1 {
+    background-color: black;
+}
+
+h2 {
+    background-color: darkorchid;
+    text-align: center;
+}
+
+h3 {
+    background-color: deepskyblue;
+    text-align: right;
+}
+
+h1 > span {
+    color: cyan;
+}
+
+.first-text {
+    color: white;
+    padding: 7px 20px;
+}
+
+.second-text {
+    color: white;
+    padding: 10px;
+}
+
+.third-text {
+    color: black;
+    text-decoration: underline 1px;
+    padding: 10px 20px;
+}
+
+.first.box {
+    margin-bottom: px;
+}
